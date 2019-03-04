@@ -26,7 +26,7 @@ Les commandes qui seront utilisées entre autres :
 8. git push origin master : Pour mettre à jour le repository de github.com avec les fichiers du lacal
 git pull origin master : Pour chager les dernières modifications du repository de github.com en local
 
-NB: Pour ce projet nous aurons trois fichiers à savoir un readme.txt et deux fichiers java.
+NB: Pour ce projet nous aurons trois fichiers à savoir un readme.txt et deux fichiers java. Une fois le repository crée sur le remote "github.com) tu dois d'abord faire un git pull pour mettre a jour le local ensuite tu travail en local et tu fais un git push pour mettre a jour le remote.
 
 Auteru : Tungalead
 adresse : ssanogom@gmail.com
