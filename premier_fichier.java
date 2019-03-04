@@ -4,8 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        System.out.println("Hello World. I am your King and Good Luck To Everyone");
-        System.out.println("I am here to learn how use git to create differente version of my program files");
-		System.out.println("That is the first java file - thanks your ");
+       System.out.println("First file : I think that also i don't display three messages. The only message is good - thanks your ");
     }
 }
