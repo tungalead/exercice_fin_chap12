@@ -4,6 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-		System.out.println("Second file : I think that i don't display three messages. The only message is good - thanks your ");
+		System.out.println("Thanks you for your review, il hope you have best understand now ");
     }
 }
