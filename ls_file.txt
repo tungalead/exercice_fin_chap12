@@ -1,0 +1,54 @@
+commit 7f1c849e2fc7e20a36079244a527e9a659492da0
+Author: Tungalead <ssanogom@gmail.com>
+Date:   Tue Mar 5 15:02:54 2019 +0000
+
+    Ajout du fichier qui contient le resultat du ls de git log - Merci
+
+commit baf2c31457f4796254ccb83a5fa92ddacd46c59e
+Author: Tungalead <ssanogom@gmail.com>
+Date:   Mon Mar 4 23:22:41 2019 +0000
+
+    Mis a jour du readme pour plus de comprehension - Merci
+
+commit 4853345e75446ea6c9a62585e9589d4fddfe1440
+Merge: fd0e07f daee208
+Author: Tungalead <ssanogom@gmail.com>
+Date:   Mon Mar 4 23:17:22 2019 +0000
+
+    Merge branch 'master' of https://github.com/tungalead/exercice_fin_chap12
+
+commit fd0e07f2e76c3a7ba3c0e58f7e644de9ab45d93c
+Author: Tungalead <ssanogom@gmail.com>
+Date:   Mon Mar 4 23:15:01 2019 +0000
+
+    Les fichiers java affichent un message de remerciement pour la correction -Merci
+
+commit db138c06f2933a7948cd0e213da8d5594e281f06
+Author: Tungalead <ssanogom@gmail.com>
+Date:   Mon Mar 4 23:11:28 2019 +0000
+
+    J'ai modifier mes deux fichiers java. Ils affiche maintenant un seul message -Merci
+
+commit 160011f2b2d861f9efa12fb1ff2b47c812423573
+Author: Tungalead <ssanogom@gmail.com>
+Date:   Mon Mar 4 23:07:45 2019 +0000
+
+    J'ai ajouter un seond fichier java qui affiche egalement trois messages -Merci
+
+commit 70f8aed61a5b5365876adae71a1b62f21aebb5b4
+Author: Tungalead <ssanogom@gmail.com>
+Date:   Mon Mar 4 23:05:22 2019 +0000
+
+    je viens d'ajouter un fichier java qui affiche trois messages - Merci
+
+commit daee208a250b42809ab29a4e2ef44316de8b0436
+Author: tungalead <48216997+tungalead@users.noreply.github.com>
+Date:   Mon Mar 4 23:02:53 2019 +0000
+
+    Update README.md
+
+commit d8dfdd4247157d5ff0142c3d4032c809118126d8
+Author: tungalead <48216997+tungalead@users.noreply.github.com>
+Date:   Mon Mar 4 23:00:10 2019 +0000
+
+    Initial commit
